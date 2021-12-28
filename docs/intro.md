@@ -2,34 +2,8 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# 简介
+欢迎━(*｀∀´*)ノ亻!你来到我的介绍博客网站!
 
-Let's discover **Docusaurus in less than 5 minutes**.
-
-## Getting Started
-
-Get started by **creating a new site**.
-
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**:
-
-```shell
-npm init docusaurus@latest my-website classic
-```
-
-## Start your site
-
-Run the development server:
-
-```shell
-cd my-website
-
-npx docusaurus start
-```
-
-Your site starts at `http://localhost:3000`.
-
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and displays your changes.
+我本人比较热爱技术,有一天突然萌发了建一个属于自己的网站博客的想法,想通过这个网记录自己的日常,做一些自己的技术积累,
+也可以培养自己的写作能力,我觉得这是一件很酷的事情,记得之前网上看到过vercel的网站托管平台,而且还是免费的,还支持自动化部署,简直太棒了,一次无意间方向了Docusaurus这个神仙框架,立马就爱了,所以也就有了这个网站!
